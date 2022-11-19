@@ -1,0 +1,58 @@
+html{
+    margin: 0px;
+    background-color: rgb(205, 231, 244);
+
+}
+
+.menu{
+    background-color: rgb(152, 150, 152);
+    text-align: center;
+    margin: 0px;
+
+}
+
+.menu a{
+    padding: 32px;
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.menu li{
+    position: relative;
+    display: inline-block;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(73, 14, 78);
+    font-size: 50px;
+    text-shadow:0 1px 0 rgb(36, 34, 34), 0 2px 0 rgb(24, 23, 24), 0 3px 0 rgb(52, 54, 52), 0 4px 0 rgb(91, 20, 223), 0 5px 0 #a7d364, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);
+}
+table{
+    width: 150px;
+    margin: 40px;
+    text-align: center;
+}
+
+.img{
+    width: 20%;
+    height: 20%;
+}
+
+table{
+    width: 100%;
+    margin: 40px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(152, 150, 152);
+    text-align: center;
+    margin: 0px;
+
+}
+
+.btn-white{
+    text-align: center;
+    color: rgb(107, 12, 12);
+}
